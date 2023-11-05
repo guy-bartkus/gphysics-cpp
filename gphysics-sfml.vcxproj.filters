@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gphysics-sfml.cpp">
+    <ClCompile Include="gphysics-cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Vec2.cpp">

@@ -24,6 +24,7 @@
     <ProjectGuid>{f537fcd5-8683-4588-96ea-281d0c1ef6a0}</ProjectGuid>
     <RootNamespace>gphysicssfml</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>gphysics-cpp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -142,7 +143,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ForceBit.cpp" />
-    <ClCompile Include="gphysics-sfml.cpp" />
+    <ClCompile Include="gphysics-cpp.cpp" />
     <ClCompile Include="imgui-SFML.cpp" />
     <ClCompile Include="Matter.cpp" />
     <ClCompile Include="MyColors.cpp" />
