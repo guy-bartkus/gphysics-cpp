@@ -4,6 +4,8 @@ Simulator for an alternative theory of physics proposed by [DraftScience](https:
 
 To get a quick summary of this alternative theory of physics, I recommend you watch [this video](https://www.youtube.com/watch?v=3pc8GOE4EmQ).
 
+![](https://user-images.githubusercontent.com/43065879/280541356-97580980-6b59-4e43-bb69-e916085671c6.jpg)
+
 ## Controls
 
 Left click to add electron, right click for proton.
