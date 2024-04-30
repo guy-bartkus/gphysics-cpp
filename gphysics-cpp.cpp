@@ -22,7 +22,7 @@ int main()
     sf::Clock deltaClock;
     sf::Clock fpsClock;
 
-    Vec2 windowSize(800, 800);
+    Vec2 windowSize(1000, 1000);
     Vec2 center = windowSize / 2.0f;
 
     sf::Color bgColor(50, 50, 50);
@@ -315,7 +315,7 @@ int main()
             ImGui::PushItemWidth(210);
 
             ImGui::Text("Force bit spawn rate:");
-            ImGui::SliderInt("##spawnrate", &spawnRate, 0, 5000, "%d per frame");
+            ImGui::SliderInt("##spawnrate", &spawnRate, 0, 2500, "%d per frame");
 
             ImGui::Text("Force bit velocity:");
             ImGui::SliderFloat("##velocity", &fbVelocity, 0.5f, 4.0f, "%f");
